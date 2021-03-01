@@ -1,4 +1,4 @@
-/*Page colours*/
+/*Page layout and background colour*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*Navigation bar*/
+/*Navigation bar with header and 3 functioning links*/
 .Navbar {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,7 +35,6 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/*Links*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +48,7 @@ a {
     background-size: cover;
     background-position: center;
 }
-/*Main body*/
+/*Main body of webpage*/
 p {
     font-size: 16px;
 }
