@@ -8,7 +8,7 @@ git@github.com:SyreetaC/Homework--task-1.git
 
     The following image shows the mock version of the webpage (left) compared with my completed version (right) demonstrating the web application's appearance and functionality:
 
-![Screenshot-Horiseons](./assets\Screenshot-Horiseons.png)
+![Screenshot-Horiseons](./assets/Screenshot-Horiseons.png)
 
 #### Link to deployed page.
 
