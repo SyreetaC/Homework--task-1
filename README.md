@@ -2,7 +2,7 @@
 
 ## Link to Github repository.
 
-git@github.com:SyreetaC/Homework--task-1.git
+git@github.com:SyreetaC/Horiseons-refactor-task.git
 
 ### Screenshot
 
