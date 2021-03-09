@@ -12,7 +12,7 @@ git@github.com:SyreetaC/Horiseons-refactor-task.git
 
 #### Link to deployed page.
 
-https://syreetac.github.io/Homework--task-1/
+https://syreetac.github.io/Horiseons-refactor-task/
 
 ##### Changes made:
 
